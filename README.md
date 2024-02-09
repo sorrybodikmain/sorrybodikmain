@@ -96,11 +96,6 @@
   <img src="https://profile-counter.glitch.me/sorrybodikmain/count.svg?"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sorrybodikmain/sorrybodikmain/output/snake.svg" alt="Snake animation" />
-
-### CodeTime
-[![CodeTime Badge](https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D19050%26project%3D%26in=0)](https://codetime.dev)
+<div align="center">
+  <img src="[https://profile-counter.glitch.me/sorrybodikmain/count.svg?](https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D19050%26project%3D%26in=0)https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D19050%26project%3D%26in=0"  />
+</div>
