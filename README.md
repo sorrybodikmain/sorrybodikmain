@@ -23,7 +23,11 @@ Let's build something amazing together! 🌟
 
 ## 🔗 Github Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sorrybodikmain&hide=issues&show_icons=true&hide_title=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sorrybodikmain&show_icons=true&locale=en)
+
+![My GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=sorrybodikmain)
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=sorrybodikmain&show_icons=true&locale=en&layout=compact)
 
 ## 🔗 CodeTime
 [![CodeTime Badge](https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D19050%26project%3D%26in=0)](https://codetime.dev)
