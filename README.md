@@ -18,6 +18,8 @@
 
 Let's build something amazing together! 🌟
 
+![GitHub Snake](https://raw.githubusercontent.com/sorrybodikmain/sorrybodikmain/output/snake.svg)
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-frontend-teal.vercel.app/)
 
