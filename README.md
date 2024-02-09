@@ -19,6 +19,9 @@
 Let's build something amazing together! 🌟
 
 
-## 🔗 My Stats
-[![CodeTime Badge](https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D19050%26project%3D%26in=0)](https://codetime.dev)
+## 🔗 My Github Stats
+
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sorrybodikmain&hide=issues&show_icons=true&hide_title=true)
+
+## 🔗 My CodeTime
+[![CodeTime Badge](https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D19050%26project%3D%26in=0)](https://codetime.dev)
