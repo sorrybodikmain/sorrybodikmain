@@ -21,9 +21,9 @@ Let's build something amazing together! 🌟
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-frontend-teal.vercel.app/)
 
-## 🔗 My Github Stats
+## 🔗 Github Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sorrybodikmain&hide=issues&show_icons=true&hide_title=true)
 
-## 🔗 My CodeTime
+## 🔗 CodeTime
 [![CodeTime Badge](https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D19050%26project%3D%26in=0)](https://codetime.dev)
