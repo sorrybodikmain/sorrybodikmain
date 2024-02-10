@@ -105,3 +105,7 @@
 <img src="https://raw.githubusercontent.com/sorrybodikmain/snake_generator/output/snake.svg" alt="Snake animation" />
 
 ###
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3163bcvafecnrubdx2jaxfuzumrq&unique={true|1|on|yes})
+
+###
