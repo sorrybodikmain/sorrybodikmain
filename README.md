@@ -74,7 +74,9 @@
 
 ###
 
-<img align="right" height="155" src="https://i.imgflip.com/65efzo.gif" /> ###
+<img align="right" height="155" src="https://i.imgflip.com/65efzo.gif" />
+
+###
 
 <div align="center">
     <a href="https://t.me/pxfos" target="_blank">
