@@ -24,7 +24,7 @@
     <a href="mailto://zochit21@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-    <a href="https://www.linkedin.com/in/bogdan-mazur-73bb22270/" target="_blank">
+    <a href="https://www.linkedin.com/in/sorrybodikmain" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
@@ -33,7 +33,7 @@
 </div>
 
 <div align="center">
-    <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=plastic&color=&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D19050%26project%3D%26in=0"/>
+   <img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D19050">
 </div>
 
 ###
