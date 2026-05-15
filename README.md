@@ -1,10 +1,5 @@
-# Hi 👋! My name is Bohdan and I'm a frontend developer, from Ukraine
 
-## 📊 GitHub Stats:
-
-<div align='center'>
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sorrybodikmain&theme=dracula" height="150" />
-</div>
+# Hi 👋! My name is Bohdan and I'm a fullstack developer, from Ukraine
 
 ###
 
@@ -21,28 +16,23 @@
     <a href="https://t.me/sorrybodikmain" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
-    <a href="mailto://zochit21@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
     <a href="https://www.linkedin.com/in/sorrybodikmain" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
 <div align="center">
-   <img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D19050">
-    <img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D19050%26language%3Dtypescript">
-    <img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D19050%26language%3Dtypescriptreact">
+  <img alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=flat-square&color=222222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D19050">
+<img alt="CodeTime Status" src="https://codetime.dev/api/widgets/status.svg?uid=19050&theme=dark&style=minimal">
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sorrybodikmain/snake_generator/output/snake.svg" alt="Snake animation" />
+## 📊 Codetime Stats:
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sorrybodikmain&theme=onedark&no-frame=false&no-bg=true&margin-w=3)
+[![CodeTime Activity Calendar](https://codetime.dev/api/widgets/calendar.svg?uid=19050&theme=dark)](https://codetime.dev)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sorrybodikmain&limit=8&theme=dark&combine_all_yearly_contributions=true)
+[![CodeTime Trend](https://codetime.dev/api/widgets/trend.svg?uid=19050&days=90&theme=dark)](https://codetime.dev)
 
+[![CodeTime Languages](https://codetime.dev/api/widgets/donut.svg?uid=19050&days=30&limit=6&theme=dark)](https://codetime.dev)
