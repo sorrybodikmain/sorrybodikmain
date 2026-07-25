@@ -1,4 +1,5 @@
 
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=48&duration=2500&pause=1500&color=ffffff&center=true&vCenter=true&width=700&lines=Frontend+Developer;Next.js+%2F+React+%2F+TypeScript;React+Native+Developer;Motion+%26+Interactive+UI+Lover" />
@@ -74,16 +75,15 @@ const bohdan = {
 
 ---
 
+# ⏳Wakatime
+
+<img src="https://wakatime.com/share/@a80fb0e0-59e0-4389-ba99-194a15c33f14/ec18f450-07ad-45ee-842b-3df78ae9d872.svg" />
+
 # ⏳ CodeTime
 
 <div align="center">
 
 <img src="https://shields.jannchie.com/endpoint?style=for-the-badge&color=111827&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D19050" />
-
-<br/>
-<br/>
-
-<img width="90%" src="https://codetime.dev/api/widgets/calendar.svg?uid=19050&theme=dark" />
 
 <br/>
 
